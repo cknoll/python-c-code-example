@@ -11,5 +11,5 @@ https://docs.python.org/2.7/library/ctypes.html or  https://docs.python.org/3.5/
 
 ### Notes:
 
-- so far this code only has been tested on debian 8 with python 2.7
-- nevertheless it is expeced to run (with small adaptions) on other platforms as well
+- This code has been tested on Debian 12 with Python 3.12.
+- Nevertheless it is expected to run (with small adaptions) on other platforms as well.
